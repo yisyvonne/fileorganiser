@@ -15,6 +15,7 @@ file_cat = {
     ".svg": "Sorted_Images",
     ".ico": "Sorted_Images",
     ".webp": "Sorted_Images",
+    ".TIFF": "Sorted_Images",
 
     # Documents
     ".txt": "Sorted_Text",
