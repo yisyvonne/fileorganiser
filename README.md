@@ -45,3 +45,4 @@ Always test the script on a copy of your files or a separate test folder first t
 ## License
 
 This project is open-source and available under the MIT License.
+# fileorganiser
