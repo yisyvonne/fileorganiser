@@ -1,6 +1,6 @@
-# File Organizer
+# File Organiser
 
-This program is a simple file organizer that automatically sorts files in any folder of your choice into categorized folders.
+This program is a simple file organiser that automatically sorts files in any folder of your choice into categorized folders.
 
 ## Features
 
@@ -8,7 +8,7 @@ This program is a simple file organizer that automatically sorts files in any fo
 
 *   **Customizable:**  Easily add or modify file categories in the `file_cat` dictionary.
 
-*   **User-Friendly GUI:** Provides a simple Tkinter interface to select the folder to be organized.
+*   **User-Friendly GUI:** Provides a simple Tkinter interface to select the folder to be organised.
 
 *   **Error Handling:** Includes basic error handling to gracefully manage issues like file permissions.
 
@@ -16,9 +16,9 @@ This program is a simple file organizer that automatically sorts files in any fo
 
 ## How to Use
 
-1.  **Run the Script:** Execute `file_organizer.py` (or the executable file if you've created one).
+1.  **Run the Script:** Execute `file_organiser.py` (or the executable file if you've created one).
 
-2.  **Select Folder:** Click the "Select the Folder You Wish to Organize" button and choose the folder you want to clean up.
+2.  **Select Folder:** Click the "Select the Folder You Wish to Organise" button and choose the folder you want to clean up.
 
 3.  **Automatic Organization:** The script will create folders for each category and move the files to the respective folders.
 
